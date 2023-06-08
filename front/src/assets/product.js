@@ -1,0 +1,68 @@
+const products = [
+  {
+    name: "Laptop sleeve Macbook",
+    price: "59",
+    img: "/images/LapMac.png",
+    description: "Organic Cotton, fairtrade certified",
+    reviews: "121",
+    ratings: "4.25",
+  },
+  {
+    name: "AirPods Max",
+    price: "559",
+    img: "/images/AirpodsMax.png",
+    description: "A perfect balance of high-fidelity audio",
+    reviews: "223",
+    ratings: "4.75",
+  },
+  {
+    name: "Flower Laptop Sleeve",
+    price: "39",
+    img: "/images/FlowerLaptopSleeve.png",
+    description: "15 in. x 10 in. -Flap top closure",
+    reviews: "72",
+    ratings: "4.5",
+  },
+  {
+    name: "Macbook pro 13",
+    price: "1099",
+    img: "/images/Macbookpro13.png",
+    description: "256, 8 core GPU, 8GB",
+    reviews: "532",
+    ratings: "4.72",
+  },
+  {
+    name: "Ipad Mini",
+    price: "699",
+    img: "/images/IpadMini.png",
+    description: "Table with air purifier, stained veneer/black",
+    reviews: "168",
+    ratings: "4.37",
+  },
+  {
+    name: "Supreme Water Bottle",
+    price: "29",
+    img: "/images/WaterBottle.png",
+    description: "Table with air purifier, stained veneer/black",
+    reviews: "85",
+    ratings: "4.16",
+  },
+  {
+    name: "Laptop sleeve MacBook",
+    price: "59",
+    img: "/images/LaptopSleevebag.png",
+    description: "Organic Cotton, fairtrade certified",
+    reviews: "87",
+    ratings: "4.06",
+  },
+  {
+    name: "HomePod Mini",
+    price: "75",
+    img: "/images/HomePod.png",
+    description: "5 Colors Available",
+    reviews: "270",
+    ratings: "4.00",
+  },
+];
+
+export default products;
